@@ -22,7 +22,7 @@ const Matias = {
 ```
 
 
-
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54://github.com/matiassenia)](https://github.com/matiassenia)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&linkhttps://github.com/matiassenia)](https://github.com/matiassenia) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
