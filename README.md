@@ -21,6 +21,13 @@ const Matias = {
 }
 ```
 
+matias = {
+    "pronouns": "He"  # or "him",
+    "code": ["Python", "HTML", "CSS", "C++"],
+    "tools": ["NodeJs", "React"],
+    "databases": ["MySQL", "MongoDB"],
+}
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&linkhttps://github.com/matiassenia)](https://github.com/matiassenia) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
