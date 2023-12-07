@@ -15,7 +15,7 @@
 ```javascript
 const Matias = {
   pronouns: "He" | "him",
-  code: [Javascript, HTML, CSS, C++],
+  code: [Python, Javascript, HTML, CSS, C++],
   tools: [NodeJs, React],
   databases: [MySQL, MongoDB],
 }
@@ -25,7 +25,7 @@ const Matias = {
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54://github.com/matiassenia)](https://github.com/matiassenia)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&linkhttps://github.com/matiassenia)](https://github.com/matiassenia) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/jessi-andre)](https://github.com/matiassenia) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/matiassenia)](https://github.com/matiassenia) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/jessi-andre)](https://github.com/matiassenia)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/matiassenia)](https://github.com/matiassenia) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/matiassenia)](https://github.com/matiassenia) 
