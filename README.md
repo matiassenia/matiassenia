@@ -1,6 +1,6 @@
 <img src="/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt="Hi.gif">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2 align="center" > Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="80"></h2>
+<h2 align="center" > Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="100"></h2>
 
 <p><em>I'm a Web Developer </em></p>
 
