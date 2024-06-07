@@ -1,25 +1,22 @@
-
 <img src="/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt="Hi.gif">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2 <h2 align="center" > Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="100"><h2>
 
-<p><em>I'm a Web Developer 
-</em></p>
+# Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="100">
+
+I'm a Web Developer.
 
 [![Linkedin: matiassenia](https://img.shields.io/badge/-Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-senia-440044146/)](https://www.linkedin.com/in/matias-senia-440044146/)
 [![GitHub Matías](https://img.shields.io/github/followers/matiassenia?label=follow&style=social)](https://github.com/matiassenia)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## A little more about me...
 
 ```javascript
 const Matias = {
   pronouns: "He" | "him",
-  code: [Python, Javascript, HTML, CSS, C++],
-  tools: [NodeJs, React],
+  code: [Python, JavaScript, HTML, CSS, C++],
+  tools: [Node.js, React],
   databases: [MySQL, MongoDB],
 }
-```
 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54://github.com/matiassenia)](https://github.com/matiassenia)
