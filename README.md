@@ -8,6 +8,71 @@
 [![GitHub Matías](https://img.shields.io/github/followers/matiassenia?label=follow&style=social)](https://github.com/matiassenia)
 
 
+def generate_readme(username, pronouns, languages, tools, databases):
+    """
+    Genera un README más atractivo con la información proporcionada.
+    
+    Args:
+        username (str): Matías.
+        pronouns (str): Él/él.
+        languages (list): Python, JavaScript, C++.
+        tools (list): Django, TensorFlow, NodeJs, React.js, Express.js .
+        databases (list):MySQL, PostgreSQL, MongoDB, SQLite.
+        
+    Returns:
+        str: El contenido del README.
+    """
+    readme_content = f"""
+    
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hi GIF" width="200">
+  <h2>¡Hola, soy {username}!</h2>
+</div>
+
+---
+
+### 👨‍💻 Acerca de mí
+
+- Pronombres: {pronouns}
+- Soy desarrollador web apasionado por la programación.
+
+### 🛠️ Tecnologías y herramientas
+
+- Lenguajes de programación: {', '.join(languages)}
+- Herramientas: {', '.join(tools)}
+- Bases de datos: {', '.join(databases)}
+
+### 🌱 ¡Contáctame!
+
+¡Conéctate conmigo a través de [LinkedIn](https://www.linkedin.com/in/{username})!
+
+---
+
+<div align="center">
+  <p>¡Gracias por visitar mi perfil! 😊</p>
+</div>
+"""
+    return readme_content
+
+# Ejemplo de uso
+username = "matiassenia"
+pronouns = "Él/él"
+languages = ["Python", "JavaScript", "HTML", "CSS", "C++"]
+tools = ["Node.js", "React"]
+databases = ["MySQL", "MongoDB"]
+
+readme = generate_readme(username, pronouns, languages, tools, databases)
+print(readme)
+
+
+
+
+
+
+
+
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
