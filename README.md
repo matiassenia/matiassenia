@@ -1,9 +1,8 @@
 <img src="/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt="Hi.gif">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2 <h2 align="center" > Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="100"><h2>
+<h2 align="center" > Hi, I'm Matías! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="80"></h2>
 
-<p><em>I'm a Web Developer 
-</em></p>
+<p><em>I'm a Web Developer </em></p>
 
 [![Linkedin: matiassenia](https://img.shields.io/badge/-Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-senia-440044146/)](https://www.linkedin.com/in/matias-senia-440044146/)
 [![GitHub Matías](https://img.shields.io/github/followers/matiassenia?label=follow&style=social)](https://github.com/matiassenia)
@@ -15,7 +14,7 @@
 const Matias = {
   pronouns: "He" | "him",
   code: [Python, Javascript, HTML, CSS, C++],
-  tools: [NodeJs, React],
+  tools: [Django, NodeJs, React],
   databases: [MySQL, MongoDB],
 }
 ```
