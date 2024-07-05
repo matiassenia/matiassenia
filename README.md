@@ -15,7 +15,7 @@ const Matias = {
   pronouns: "He" | "him",
   code: [Python, Javascript, HTML, CSS, C++],
   tools: [Django, NodeJs, React],
-  databases: [MySQL, MongoDB],
+  databases: [MySQL, PostgreSQL, MongoDB],
 }
 ```
 
