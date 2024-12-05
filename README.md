@@ -25,23 +25,10 @@ const Matias = {
   tools: [Django, NodeJs, React],
   databases: [MySQL, PostgreSQL, MongoDB],
 }
-``` 
- 
- 
-```
-const Matias = {
-  name: "Matias Senia",
-  pronouns: "he/him",
-  description: "Full-Stack Developer to crafting efficient, innovative, and impactful software solutions.",
-  code: ["Python", "JavaScript", "HTML", "CSS", "C++"],
-  tools: ["Django", "Node.js", "React", "Express"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-},
-
 
 console.log(`Welcome to ${Matias.name}'s README!`);
-```
-
+``` 
+ 
 ## My Skills Include
 
 <h4> Languages </h4>
