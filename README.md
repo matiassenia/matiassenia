@@ -15,16 +15,18 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<!-- 
+
 ```javascript
 const Matias = {
+  name: "Matias Senia",
   pronouns: "He" | "him",
+  description: "Full-Stack Developer to crafting efficient, innovative, and impactful software solutions.",
   code: [Python, Javascript, HTML, CSS, C++],
   tools: [Django, NodeJs, React],
   databases: [MySQL, PostgreSQL, MongoDB],
 }
 ``` 
- -->
+ 
  
 ```
 const Matias = {
