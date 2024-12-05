@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi , I'm Matías Senia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--  -->
-<img align="right" width=300px alt="tipit" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
