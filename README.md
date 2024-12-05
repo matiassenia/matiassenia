@@ -30,34 +30,12 @@ const Matias = {
 const Matias = {
   name: "Matias Senia",
   pronouns: "he/him",
-  description: "Full-Stack Developer transitioning from a decade of experience in the culinary industry to crafting efficient, innovative, and impactful software solutions.",
+  description: "Full-Stack Developer to crafting efficient, innovative, and impactful software solutions.",
   code: ["Python", "JavaScript", "HTML", "CSS", "C++"],
-  tools: ["Django", "Node.js", "React", "Express", "Kivy"],
+  tools: ["Django", "Node.js", "React", "Express"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  projects: [
-    {
-      name: "GastroSal",
-      description: "A Django web application for managing and analyzing job data in the gastronomy industry.",
-      url: "https://gastrosal.up.railway.app",
-    },
-    {
-      name: "Shop Camisetas",
-      description: "An online store for football t-shirts, built with Django and integrated with a SQLite database.",
-      url: "https://github.com/matiassenia/shop-camisetas",
-    },
-    {
-      name: "Delilah Resto",
-      description: "A backend system for managing food orders with Node.js and MySQL.",
-      url: "https://github.com/matiassenia/delilah-resto",
-    },
-  ],
-  hobbies: ["Gastronomy", "Creative writing", "Exploring new tech"],
-  contact: {
-    linkedin: "https://www.linkedin.com/in/matiassenia/",
-    github: "https://github.com/matiassenia",
-    email: "matias.senia@example.com",
-  },
-};
+},
+
 
 console.log(`Welcome to ${Matias.name}'s README!`);
 ```
