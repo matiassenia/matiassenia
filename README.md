@@ -26,7 +26,6 @@ const Matias = {
   databases: [MySQL, PostgreSQL, MongoDB],
 }
 
-console.log(`Welcome to ${Matias.name}'s README!`);
 ``` 
  
 ## My Skills Include
