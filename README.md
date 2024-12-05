@@ -8,6 +8,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <p><em>I'm a Programmer ¬ ÷ Developer </em></p>
+- 📫 Reach out to me at: <a href="matiasseniadev@gmail.com">matiasseniadev@gmail.com</a>
 
 [![Linkedin: matiassenia](https://img.shields.io/badge/-Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-senia-440044146/)](https://www.linkedin.com/in/matias-senia-440044146/)
 [![GitHub Matías](https://img.shields.io/github/followers/matiassenia?label=follow&style=social)](https://github.com/matiassenia)
