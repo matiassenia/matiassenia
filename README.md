@@ -2,11 +2,6 @@
 <h1 align="center"><b>Hi there! I'm Matías </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Backend Engineer | Python & Node.js Specialist | AI & Automation Architect</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</p>
-
 ---
 
 ### 🛠️ About Me
