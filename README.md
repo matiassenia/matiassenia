@@ -1,88 +1,119 @@
+# Matias Senia
 
-<h1 align="center"><b>Hi there! I'm Matías </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Backend Engineer | Python & Node.js Specialist | AI & Automation Architect</h3>
+Engineering reliable backend systems where deterministic software and AI capabilities work together.
 
----
+### Backend & AI Integration Engineer
 
-### 🛠️ About Me
-I am a **Backend Engineer** focused on building production-ready systems that bridge the gap between robust software architecture and AI-native capabilities. I specialize in designing scalable APIs and automating complex workflows using distributed systems.
+Building scalable APIs, AI-enabled applications, workflow automation, and production-ready services with **Python**, **FastAPI**, **LangGraph**, **Docker**, **PostgreSQL**, and **AWS**.
 
-**What I bring to the table:**
-- **AI-Native Backend Platforms:** Expertise in Multi-agent systems (LangGraph) and RAG architectures.
-- **High-Performance APIs:** Built with FastAPI and Django, focusing on asynchronous processing.
-- **Distributed Systems:** Experience with Redis for state management and orchestration.
-- **Reliability:** Strong focus on Clean Architecture, Observability, and Docker-based deployments.
+**[LinkedIn](https://linkedin.com/in/matiassenia)** · **[Email](mailto:matiasseniadev@gmail.com)** · [GitHub](https://github.com/matiassenia)
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiassenia) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matiasseniadev@gmail.com) 
-[![GitHub Matías](https://img.shields.io/github/followers/matiassenia?label=follow&style=social)](https://github.com/matiassenia)
+## ⚙️ Engineering Focus
 
+**Backend systems:** API design, async services, authentication, validation, workflow orchestration, observability, and deployment readiness.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```js
-const matias = {
-  fullName: "Matias Senia",
-  role: "Backend Engineer",
-  specialization: "Python, scalable APIs and AI integrations",
-  currentFocus: [
-    "Backend architecture",
-    "AI/LLM integrations",
-    "Distributed systems",
-    "Automation platforms",
-    "High-performance APIs"
-  ],
-  coreStack: {
-    languages: ["Python", "JavaScript/TypeScript"],
-    backend: ["FastAPI", "Django", "Node.js"],
-    databases: ["PostgreSQL", "Redis", "MongoDB"],
-    infrastructure: ["Docker", "AWS", "GitHub Actions"],
-    ai: ["OpenAI API", "LangGraph", "RAG"]
-  },
-  engineeringInterests: [
-    "Scalable system design",
-    "Event-driven architectures",
-    "API design",
-    "Observability",
-    "Clean architecture"
-  ]
-};
-
-``` 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ! ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-### 💻 Technical Ecosystem
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Data & Infrastructure**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **AI & Tools**
-![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+**AI integration:** LangGraph workflows, LLM-grounded analytics, deterministic fallbacks, tool boundaries, and retrieval-oriented system design.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠 Tech Stack
 
-#### 🤖 [RIMAS — Multi-Agent Retail Intelligence](TU_LINK_AQUI)
-An AI orchestration backend built with **FastAPI** and **LangGraph**. It manages production-oriented inventory and marketing workflows using autonomous agents.
-
-#### 📈 [AI Log Analyzer](TU_LINK_AQUI)
-High-performance API designed for structured incident diagnostics. It uses LLMs to analyze infrastructure logs and provide actionable observability insights.
-
-#### 📱 [WhatsApp Business Automation](TU_LINK_AQUI)
-A scalable messaging backend using **Redis** for state management and the **Meta Cloud API**. Designed for high-concurrency ordering systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-🌱From [@Matias](https://github.com/matiassenia)
-<!--
-**matiassenia/matiassenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Building
+
+- AI systems with explicit safety boundaries.
+- LangGraph workflows for backend orchestration.
+- FastAPI services with clear contracts.
+- Workflow automation for operational processes.
+- LLM applications grounded in backend data.
+- Retrieval-based systems and observability patterns.
+
+---
+
+## 🚀 Featured Projects
+
+### [DataAnalizerPy](https://github.com/matiassenia/DataAnalizerPy)
+
+Local-first analytics platform for restaurant operations.
+
+**Problem:** Converts operational CSV/XLSX exports into KPIs, trends, audit records, and AI-assisted insights over backend-computed metrics.
+
+**Architecture:** Static dashboard -> FastAPI API -> upload validation -> ETL pipeline -> SQLite analytics store -> BI engine -> optional LangGraph assistant.
+
+**Highlights:** File safety checks, duplicate handling, deterministic AI fallback, sanitized events, synthetic demo data, CI-backed tests.
+
+**Stack:** Python 3.13, FastAPI, SQLite, Pydantic, LangGraph, Pytest, GitHub Actions.
+
+---
+
+### [RIMAS](https://github.com/matiassenia/rimas)
+
+Retail intelligence backend for inventory and marketing planning.
+
+**Problem:** Generates planning recommendations while preserving audit trails and human approval over automated decisions.
+
+**Architecture:** FastAPI REST API -> orchestration layer -> PostgreSQL persistence -> event audit log -> optional LangGraph mode -> MLflow-ready infrastructure.
+
+**Highlights:** Async SQLAlchemy, REST contracts, `plan_events` auditability, Docker Compose infrastructure, persisted agent outputs.
+
+**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy Async, Pydantic v2, Docker, MLflow, Pytest, LangGraph.
+
+---
+
+### [CanchealApp](https://github.com/matiassenia/canchealApp)
+
+Football field booking platform with player and club-owner workflows.
+
+**Problem:** Supports club discovery, slot availability, booking management, and owner workflows for fields and weekly schedules.
+
+**Architecture:** Next.js frontend -> Express API -> Prisma ORM -> PostgreSQL, with JWT authentication and role-based authorization.
+
+**Highlights:** Overlap protection, soft cancellation, owner/player role boundaries, seeded demo data, local Postgres through Docker Compose.
+
+**Stack:** Node.js, Express, Prisma, PostgreSQL, Next.js, React, Tailwind CSS, Docker Compose.
+
+---
+
+### [Worldsys Backend Challenge](https://github.com/matiassenia/worldsys-backend-challenge-)
+
+Streaming file-ingestion microservice for large customer datasets.
+
+**Problem:** Processes large `.dat` files, rejects malformed rows, bulk-inserts valid clients, and keeps `/health` available during ingestion.
+
+**Architecture:** Node.js service -> streaming reader -> validation layer -> queue/worker batching -> SQL Server bulk insert -> Dockerized runtime.
+
+**Highlights:** Streaming IO, low-memory processing, batch inserts, database retries, progress logging, separated reader/worker flow.
+
+**Stack:** TypeScript, Node.js, Docker, SQL Server, streaming IO, batch processing.
+
+---
+
+## 📌 Engineering Principles
+
+- API-first design with clear contracts and predictable behavior.
+- Clean boundaries between transport, orchestration, persistence, and domain logic.
+- Production over prototypes: tests, Docker, environment isolation, and safe defaults.
+- Deterministic AI systems with grounded outputs and explicit fallbacks.
+- Human-in-the-loop workflows when automation affects operational decisions.
+- Observability by default for debugging, traceability, and reliability.
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/matiassenia) · [Email](mailto:matiasseniadev@gmail.com) · [GitHub](https://github.com/matiassenia)
